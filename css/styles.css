@@ -144,6 +144,7 @@ margin: auto;
     align-content: center;
     /* min-height : 100vh; */
     padding-bottom: 200px;
+    text-align: center;
  }
  .cuepoImg{
     width: 50%;
